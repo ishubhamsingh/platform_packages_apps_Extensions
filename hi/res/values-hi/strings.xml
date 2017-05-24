@@ -45,26 +45,26 @@
   <string name="status_bar_category">स्टेटस बार</string>
   <string name="notifications_panel_category">सूचना पैनल</string>
   <string name="system_category">सिस्टम</string>
-  <string name="statusbar_items_category">Statusbar items</string>
-  <string name="navigation_category">Navigation</string>
-  <string name="lockscreen_category">Lockscreen</string>
-  <string name="breathing_notifications_category">Breathing Notifications</string>
-  <string name="build_tweaks_summary_title">Extend your device!</string>
-  <string name="system_animations">System Animations</string>
-  <string name="toast">Toast</string>
-  <string name="listview">ListView</string>
-  <string name="qs_header_title">Quick settings header</string>
-  <string name="qs_omnijaws_category">Weather QS tile</string>
+  <string name="statusbar_items_category">स्टेटसबार आइटम्स</string>
+  <string name="navigation_category">नेविगेशन</string>
+  <string name="lockscreen_category">लॉकसक्रीन</string>
+  <string name="breathing_notifications_category">श्वास सूचनाएँ</string>
+  <string name="build_tweaks_summary_title">अपने डिवाइस का विस्तार करें!</string>
+  <string name="system_animations">सिस्टम एनिमेशन</string>
+  <string name="toast">टोस्ट</string>
+  <string name="listview">लिस्त्व्यू</string>
+  <string name="qs_header_title">क्विक्सेटिंग्स हेडर</string>
+  <string name="qs_omnijaws_category">मौसम क्यू एस टाइल</string>
   <!-- App info dialog -->
-  <string name="extensions_dialog_title">Help us help you!</string>
-  <string name="extensions_dialog_message">If you find a bug with any of these settings, post in the Bug Reports section of our Google+ page. You MUST include the following when posting a bug report:\n\n1. A logcat or last_kmsg\n2. Kernel and mods used\n3. Useful information\n\nIf you fail to report something adequately, DO NOT expect things to be fixed.</string>
-  <string name="extensions_dialog_toast">READ THE WHOLE THING!</string>
+  <string name="extensions_dialog_title">हमें मदद करें हम आपकी मदद करेंगे!</string>
+  <string name="extensions_dialog_message">यदि आप किसी भी इन सेटिंग्स के साथ एक बग मिल, हमारे Google + पृष्ठ का बग रिपोर्ट अनुभाग में पोस्ट। आप एक बग रिपोर्ट: \n\n1 प्रेषित करते समय निम्न शामिल होना चाहिए। एक logcat या last_kmsg\n2. Used\n3 कर्नेल और mods. उपयोगी information\n\nIf, तुम कुछ पर्याप्त रूप से रिपोर्ट करने के लिए असफल नहीं करते बातें तय होने की उम्मीद है।</string>
+  <string name="extensions_dialog_toast">पूरी बात पढ़ें!</string>
   <!-- OmniJaws -->
-  <string name="weather_config_title">Weather tile settings</string>
+  <string name="weather_config_title">मौसम टाइल सेटिंग्स</string>
   <!-- Quick Settings brightness slider -->
-  <string name="qs_brightness_slider_title">Brightness slider</string>
-  <string name="qs_brightness_slider_summary">Show a brightness slider in the quick settings panel</string>
-  <string name="brightness_icon_title">Brightness icon </string>
+  <string name="qs_brightness_slider_title">चमक स्लाइडर</string>
+  <string name="qs_brightness_slider_summary">क्विकसेटिंग पैनल में एक चमक स्लाइडर दिखाएँ</string>
+  <string name="brightness_icon_title">चमक चिह्न </string>
   <string name="brightness_icon_summary">Show a brightness icon to the left of the brighness slider to adjust auto-brightness</string>
   <!-- Quick Settings -->
   <string name="quick_settings_title">Quick Settings</string>
